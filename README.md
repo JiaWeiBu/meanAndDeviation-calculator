@@ -11,7 +11,7 @@ It has little error handler
 Features
 
 You can send it data list with group or ungroup data into this calculator and it will calculate the standard deviation and the mean
-It contains all the variable needed to calculate the data so you can double check with a real calculator
+It contains all the variable needed to calculate the data so you can double check with a real calculator.
 
 
 How to use the calculator??
@@ -25,3 +25,4 @@ I hope this help your works
 Remarks
 
 This is a simple calculator, feel free to fork this repository to add additional features.
+Since this calculator is made only with functions, you can use it as a library.
