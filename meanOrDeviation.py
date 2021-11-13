@@ -231,4 +231,5 @@ def main():
     temp = input('Press enter to quit the calculation')
     quit()
     
-main()
+if __name__ == '__main__':
+    main()
