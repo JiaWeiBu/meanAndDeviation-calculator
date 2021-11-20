@@ -75,7 +75,7 @@ def meanDataInput(allM,allF):
             allM.append(c)
     
         for a in range(r):
-            c = int(input(f'WHat is the {a+1} frequency of f: '))
+            c = float(input(f'WHat is the {a+1} frequency of f(probability (p)): '))
             allF.append(c)
     
         return [allM,allF]
@@ -127,7 +127,7 @@ def dataMean():
         x = meanUngroup(y[0],y[1])
     
     x.append(dataType)
-    #for group data x[0] is midpoint list, x[1] is frequency list, x[2] is mean, x[4] is data type string
+    #for group data x[0] is midpoint list, x[1] is frequency list, x[2] is mean, x[3] is data type string
     return x
         
 #deviation
@@ -231,5 +231,5 @@ def main():
     temp = input('Press enter to quit the calculation')
     quit()
     
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
