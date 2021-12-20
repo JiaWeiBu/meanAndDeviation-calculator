@@ -1,6 +1,6 @@
-# meanAndDeviation-calculator
+# Math III calculator
 
-This is a mean and standard deviation calculator
+This is a mean and standard deviation, correlation and regression calculator
 
 Disclaimmer !!!
 
