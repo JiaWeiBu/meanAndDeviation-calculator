@@ -2,19 +2,19 @@
 
 This is a mean and standard deviation, correlation and regression calculator
 
-###Disclaimmer !!!
+### Disclaimmer !!!
 
 - It does not have any graphic and some novice naming of the variable
 - It has little error handler
 
 
-##Features
+## Features
 
 - You can send it data list with group or ungroup data into this calculator and it will calculate the standard deviation and the mean
 - It contains all the variable needed to calculate the data so you can double check with a real calculator.
 
 
-##How to use the calculator??
+## How to use the calculator??
 
 - The program will prompt out a set of question, you can type out the function you want the program to do.
 - For example if you want a mean calculator you can type m when the prompt ask for it.
@@ -27,4 +27,3 @@ This is a mean and standard deviation, correlation and regression calculator
 - This is a simple calculator, feel free to fork this repository to add additional features.
 - Since this calculator is made only with functions, you can use it as a library.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiaWeiBu/meanAndDeviation-calculator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
