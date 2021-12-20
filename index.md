@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Math III calculator
 
-You can use the [editor on GitHub](https://github.com/JiaWeiBu/meanAndDeviation-calculator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a mean and standard deviation, correlation and regression calculator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Disclaimmer !!!
 
-### Markdown
+- It does not have any graphic and some novice naming of the variable
+- It has little error handler
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##Features
 
-# Header 1
-## Header 2
-### Header 3
+- You can send it data list with group or ungroup data into this calculator and it will calculate the standard deviation and the mean
+- It contains all the variable needed to calculate the data so you can double check with a real calculator.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##How to use the calculator??
 
-**Bold** and _Italic_ and `Code` text
+- The program will prompt out a set of question, you can type out the function you want the program to do.
+- For example if you want a mean calculator you can type m when the prompt ask for it.
+- The alphabet being bracket is the letter you should type and it is in a loop untill the correct letter is typed out.
+- The data you input must either be in float and the frequency and number of input must be interger. The dataerror will prompt and restart the program.
+- I hope this help your works
 
-[Link](url) and ![Image](src)
-```
+## Remarks
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiaWeiBu/meanAndDeviation-calculator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- This is a simple calculator, feel free to fork this repository to add additional features.
+- Since this calculator is made only with functions, you can use it as a library.
