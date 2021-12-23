@@ -31,7 +31,7 @@ def Sxx(dataPair):
 def Syy(dataPair):
     x,y,xy,xx,yy,n = dataPair
     syy = yy - (y*y)/n
-    print(f'S_XY = {yy} - {y}^2/{n} = {syy:.4f}')
+    print(f'S_YY = {yy} - {y}^2/{n} = {syy:.4f}')
     return syy
 
 def Sxy(dataPair):
@@ -117,3 +117,5 @@ print('')
 print('Simple Linear Regression')
 B = b(sxy,sxx)
 A = a(B,tX,tY,numDataPair)
+
+enter = input('press enter to stop')
